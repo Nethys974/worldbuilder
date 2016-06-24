@@ -1,0 +1,8 @@
+module:
+    resource: "@ModuleBundle/Resources/config/routing.yml"
+    prefix:   /module
+
+main:
+    resource: "@MainBundle/Resources/config/routing.yml"
+    prefix:   /
+
